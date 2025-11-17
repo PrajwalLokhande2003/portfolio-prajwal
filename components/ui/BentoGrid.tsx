@@ -76,11 +76,11 @@ export const BentoGridItem = ({
                 </h1>
               </div>
               <div className="font-sans font-semibold text-[#e3e4f7] text-sm md:text-xs lg:text-base z-10 mb-4 text-justify">
-                <h1>I have experience in <span className="text-purple font-semibold">Web Development</span>, creating responsive websites with HTML, CSS, JavaScript, Next.js, React and NodeJS. Moreover, As a <span className="text-purple font-semibold">UI/UX designer</span> I&#39;m proficient in <span className="text-purple font-semibold">Figma, and Canva.</span> I am passionate about coding and skilled in <span className="text-purple font-semibold">C++, Java, Data Structures and Algorithms, AI, and Design and Analysis of Algorithms.</span>
+                <h1>I have experience in <span className="text-purple font-semibold">Web Development</span>, creating responsive websites with HTML, CSS, JavaScript, Next.js, React and NodeJS. Moreover, As a <span className="text-purple font-semibold">UI/UX designer</span> I&apos;m proficient in <span className="text-purple font-semibold">Figma, and Canva.</span> I am passionate about coding and skilled in <span className="text-purple font-semibold">C++, Java, Data Structures and Algorithms, AI, and Design and Analysis of Algorithms.</span>
                 </h1>
               </div>
                 <div className="font-sans font-semibold text-[#e3e4f7] text-sm md:text-xs lg:text-base mb-4 text-justify">
-                  <h1>I was also contribute in <span className="text-purple font-semibold">Open Source Projects</span>. <span className="text-purple font-semibold">My goal is to leverage my skills to create innovative solutions and contribute to technological advancements.</span> I&#39;m always eager to learn and explore new technologies.
+                  <h1>I was also contribute in <span className="text-purple font-semibold">Open Source Projects</span>. <span className="text-purple font-semibold">My goal is to leverage my skills to create innovative solutions and contribute to technological advancements.</span> I&apos;m always eager to learn and explore new technologies.
                   </h1>
                 </div>
                 {/* <div className=" sm:w-[30%] sm:h-[30%] w-[50%] h-[50%] absolute bottom-0 right-0 ">
